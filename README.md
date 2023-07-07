@@ -1,5 +1,3 @@
-# seymazcondensed
-Seymaz Condensed, the typeface.
-
-
-Made in 2020, inspired by a design started in 2015.
+# Guardia
+<b>Guardia, the typeface</b><br>
+<b>Last edit: October 2020, from a design initiated in 2015 and 2018.</b><br>
